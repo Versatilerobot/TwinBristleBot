@@ -1,4 +1,4 @@
-# TwinBristleBot-
+# TwinBristleBot
 A vibration-driven locomotion robot
 
 La TBB#3 est un robot propulsé et dirigé par vibrations. Il peut selon la programmation suivre une ligne ou être téléopéré par WiFi & Bluetooth avec un smartphone par exemple.
