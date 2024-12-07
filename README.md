@@ -1,5 +1,5 @@
 # TwinBristleBot
-A vibration-driven locomotion robot
+Vibration-driven locomotion robot
 
 ![TBB3.png](img/TBB2024.png)
 
