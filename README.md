@@ -4,16 +4,15 @@ A vibration-driven locomotion robot
 ![TBB3.png](img/TBB2024.png)
 
 # Présentation
-La TBB#3 est un robot propulsé et dirigé par vibrations. Il peut selon la programmation suivre une ligne ou être téléopéré par WiFi & Bluetooth avec un smartphone par exemple.
+La TBB#3 est la troisiéme génération d'un robot propulsé et dirigé par vibrations. Il peut selon la programmation suivre une ligne ou être téléopéré par WiFi & Bluetooth avec un smartphone par exemple.
 
 Le robot est équipé en option d’un module de télémétrie IR qui utilise la technologie Time Of Flight afin de détecter les obstacles devant lui.  Il peut aussi émettre et recevoir un code d’indentification IR dont la portée est ajustable électroniquement pour gérer les priorités et faire évoluer plusieurs robots sur la même piste. Les vibrations sont générées par deux micro-moteurs à masselottes M20 placés à droite et gauche sous le corps, ce qui permet aussi de diriger le robot. Son module de commande utilise un objet IoT open-source T-Energy équipé d’un ESP32 WROVER-B 240MHZ et qui est alimenté par une batterie 3.7V Li-ion 18650. Le module comporte un connecteur micro USB pour la recharge et la programmation, ainsi qu’un interrupteur d’alimentation.
 
 # Historique
-C’est la troisième génération d’un projet personnel de robot à vibration.
-
 Le premier modèle de 2010 avait été conçu à l’aide d’une brosse à balais et un Arduino UNO. Il a fait l’objet d’un tutorial d’assemblage dans la revue Française Planète Robots N°11 à 13. Avec son aspect « SteamPunk » elle a parcouru de longues distances sur les salons.
 
 La deuxième génération de 2016 avait pour objectif d’en faire un kit éducatif pour l’association Française de robotique Caliban https://www.facebook.com/AssoCaliban et pouvait être commandée en Bluetooth par un smartphone. Plus légère et plus rapide elle utilisait des filaments de coupe bordure pour se propulser. Mais son assemblage était assez laborieux et il y avait besoin de plusieurs grosses batteries.
+![TBB2010.png](img/TBB2010.png)
 
 Vous retrouverez quelques démos de ces précédentes versions aux lien suivants :
 
