@@ -14,8 +14,7 @@ https://youtu.be/j-4YKCCavfE?si=R-b72nfv_x8SOfja
 Le premier modèle de 2010 avait été conçu à l’aide d’une brosse à balais et un Arduino UNO. Il a fait l’objet d’un tutorial d’assemblage dans la revue Française Planète Robots N°11 à 13. Avec son aspect « SteamPunk » elle a parcouru de longues distances sur les salons.
 
 La deuxième génération de 2016 avait pour objectif d’en faire un kit éducatif pour l’association Française de robotique Caliban https://www.facebook.com/AssoCaliban et pouvait être commandée en Bluetooth par un smartphone. Plus légère et plus rapide elle utilisait des filaments de coupe bordure pour se propulser. Mais son assemblage était assez laborieux et il y avait besoin de plusieurs grosses batteries.
-<img src="img/TBB2010.png" width="500">
-<img src="img/TBB2016.png" width="500">
+<img src="img/TBB2010.png" width="500"> <img src="img/TBB2016.png" width="500">
 <br />Vous retrouverez quelques démos de ces précédentes versions aux lien suivants :<br />
 Twin BristleBot 2010 : https://youtu.be/IOm3nyDv1LA?si=ABxqIedQcTU6AHdo <br />
 Twin BristleBot 2016: https://youtu.be/aQ-3ZJKfJKs?si=AR1gLndqPDY5ka6K
