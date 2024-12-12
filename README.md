@@ -25,7 +25,7 @@ Le robot est équipé en option d’un module de télémétrie IR qui utilise la
 
 Pour faire le lien entre le module de commande et les autres composants tel que les moteurs et capteurs j’ai dessiné un PCB double face que j’ai fait réaliser en ligne par JLCPCB https://jlcpcb.com/, mais vous pouvez utiliser tout autre fournisseur.
 
-<img src="img/3D view FR-4.png" width="400">
+<img src="img/3D view FR-4.png" width="400"> <img src="img/Bottom flip.png" width="400">
 
 Le schéma électronique, ainsi que le fichier Gerber, la BOM de composants et le fichier de placement des composants sont fournis. Pour ma part j’ai opté pour faire assembler les composants de surface SMD (Surface Mount Device), ce qui facilite l’assemblage car il reste à souder soi-même que les composants traditionnels traversants tels que les connecteurs… L’ensemble peut donc être approvisionné en ligne.
 
