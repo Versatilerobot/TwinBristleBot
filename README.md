@@ -23,8 +23,10 @@ La version de 2024 est conçue en impression 3D PLA pour le corps et en TPU pour
 
 Le robot est équipé en option d’un module de télémétrie IR qui utilise la technologie Time Of Flight afin de détecter les obstacles devant lui.  Il peut aussi émettre et recevoir un code d’indentification IR dont la portée est ajustable électroniquement pour gérer les priorités et faire évoluer plusieurs robots sur la même piste. Les vibrations sont générées par deux micro-moteurs à masselottes M20 placés à droite et gauche sous le corps, ce qui permet aussi de diriger le robot. Son module de commande utilise un objet IoT open-source T-Energy équipé d’un ESP32 WROVER-B 240MHZ et qui est alimenté par une batterie 3.7V Li-ion 18650. Le module comporte un connecteur micro USB pour la recharge et la programmation, ainsi qu’un interrupteur d’alimentation.
 
-Pour faire le lien entre le module de commande et les autres composants tel que les moteurs et capteurs j’ai dessiné un PCB double face que j’ai fait réaliser en ligne par JLCPCB https://jlcpcb.com/, mais vous pouvez utiliser tout autre fournisseur. <br />
-<img src="img/3D view FR-4.png" width="400"><br />
+Pour faire le lien entre le module de commande et les autres composants tel que les moteurs et capteurs j’ai dessiné un PCB double face que j’ai fait réaliser en ligne par JLCPCB https://jlcpcb.com/, mais vous pouvez utiliser tout autre fournisseur.
+
+<img src="img/3D view FR-4.png" width="400">
+
 Le schéma électronique, ainsi que le fichier Gerber, la BOM de composants et le fichier de placement des composants sont fournis. Pour ma part j’ai opté pour faire assembler les composants de surface SMD (Surface Mount Device), ce qui facilite l’assemblage car il reste à souder soi-même que les composants traditionnels traversants tels que les connecteurs… L’ensemble peut donc être approvisionné en ligne.
 
 Le dossier comprend un manuel d’instructions pour l’assemblage et le démarrage, ainsi qu’un exemple de programme pour suivre une ligne et détecter des obstacles. Pour rappel, il est fourni tel quel. L'auteur ne donne aucune garantie et n'accepte aucune responsabilité quant à l'exactitude ou à l'exhaustivité des informations et des éléments contenus dans ce dossier.
