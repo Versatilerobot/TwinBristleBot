@@ -6,7 +6,7 @@ Vibration-driven locomotion robot <br />
 La TBB#3 est la troisiéme génération d'un robot propulsé et dirigé par vibrations. Dans ce dossier vous trouverez toutes les informations pour le construire et le programmer en mode suiveur de ligne, mais on peut aussi le téléopérer par WiFi & Bluetooth. 
 
 Vous trouverez quelques vidéos de démonstration aux liens suivants :<br /> 
-https://youtu.be/j-4YKCCavfE?si=R-b72nfv_x8SOfja 
+https://youtu.be/ebChETA49Jo
 
 # Historique
 Le premier modèle de 2010 avait été conçu à l’aide d’une brosse à balais et un Arduino UNO. Il a fait l’objet d’un tutorial d’assemblage dans la revue Française Planète Robots N°11 à 13. Avec son aspect « SteamPunk » elle a parcouru de longues distances sur les salons.
