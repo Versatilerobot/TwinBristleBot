@@ -29,4 +29,5 @@ Pour faire le lien entre le module de commande et les autres composants tel que 
 
 Le schéma électronique, ainsi que le fichier Gerber, la BOM de composants et le fichier de placement des composants sont fournis. Pour ma part j’ai opté pour faire assembler les composants de surface SMD (Surface Mount Device), ce qui facilite l’assemblage car il reste à souder soi-même que les composants traditionnels traversants tels que les connecteurs… L’ensemble peut donc être approvisionné en ligne.
 
-Le dossier comprend un manuel d’instructions pour l’assemblage et le démarrage, ainsi qu’un exemple de programme pour suivre une ligne et détecter des obstacles. J'espère que vous apprécierez construire ce robot et si c’est le cas n’hésitez pas à mettre une étoile sur le GitHub, ça fait toujours plaisir.
+Le dossier comprend un manuel d’instructions pour l’assemblage et le démarrage, ainsi qu’un exemple de programme pour suivre une ligne et détecter des obstacles. ( ! ce programme est compatible avec le module complémentaire Expressif version 2.0.17). 
+<br /> J'espère que vous apprécierez construire ce robot et si c’est le cas n’hésitez pas à mettre une étoile sur le GitHub, ça fait toujours plaisir.
